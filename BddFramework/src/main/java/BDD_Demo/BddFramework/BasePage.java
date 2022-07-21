@@ -6,8 +6,9 @@ public class BasePage {
 	    {
 	        System.out.println( "Hello World!" );
 	        
-	        int a = 10;
+	        private int a = 10;
 	        System.out.println(a);
+
 	    }
 	
 }
